@@ -29,6 +29,9 @@ gem 'devise'
 # Admin panel Using ActiveAdmin
 gem 'activeadmin', github: 'activeadmin'
 
+gem 'carrierwave', '~> 0.9'
+gem 'bootstrap-sass', '~> 2.3.2'
+
 # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
 #gem 'spring',  group: :development
 
